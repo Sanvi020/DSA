@@ -1,0 +1,17 @@
+#include <iostream>
+# include<limits.h>
+using namespace std;
+
+// Program to find smallest number in an array
+
+int main(){
+    int num[5] = {12,-3,33,21,3};
+    int smallest = INT_MAX;  // Used for infinty 
+
+    for(int i = 0 ; i<5 ; i++){
+        if(num[i] < smallest){
+            smallest = num[i];
+        }
+    }
+    cout << "The smallest number in the array is : " << smallest << endl;
+}
