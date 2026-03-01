@@ -1,0 +1,35 @@
+#include <iostream>
+# include<limits.h>
+using namespace std;
+
+// Program to swap max and min numbers in an array
+
+int main(){
+    int arr[] = {1,2,3,4,5};
+    int max_index = 0 ; int min_index=0;
+    int largest = INT_MIN;
+    int smallest = INT_MAX; // Infinity
+
+    for(int i = 0; i<5;i++){
+        if(arr[i]>largest){
+            largest = arr[i];
+            max_index = i;
+        }
+    }
+    cout << "Largest number is : "<< largest << endl;
+
+    for(int i = 0 ; i<5;i++){
+        if(arr[i]<smallest){
+            smallest = arr[i];
+            min_index = i;
+        }
+    }
+    cout << "Smallest number is : "<< smallest << endl;
+
+    swap(arr[max_index],arr[min_index]);
+
+    for(int i=0; i<5 ; i++){
+        cout << arr[i];
+    }
+
+}
