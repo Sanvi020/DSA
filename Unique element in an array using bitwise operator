@@ -1,0 +1,15 @@
+#include <iostream>
+# include<limits.h>
+using namespace std;
+
+// Program to check unique element in an array with biwise operator
+
+int main(){
+    int arr[5] = {4,1,2,1,2};
+    int ans = 0;
+
+    for(int i = 0; i<5; i++){
+        ans = ans ^ i;
+    }
+    cout << ans << endl;
+}
