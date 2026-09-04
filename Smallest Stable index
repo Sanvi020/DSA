@@ -1,0 +1,31 @@
+class Solution {
+public:
+    int firstStableIndex(vector<int>& nums, int k) {
+        int n = nums.size();
+        int idx = -1;
+
+        vector<int> mxv(n,0);
+        vector<int> miv(n,0);
+        int mx = INT_MIN;
+        int mi = INT_MAX;
+
+        for(int i =0; i<n; i++){
+            mx = max(mx,nums[i]);
+            mxv[i] = mx;
+        }
+
+        for(int i=n-1; i>=0; i--){
+            mi = min(mi,nums[i]);
+            miv[i] = mi;
+        }
+
+        for(int i =0; i<n; i++){
+            int score = mxv[i]-miv[i];
+            if(score<=k){
+                idx = i;
+                break;
+            }
+        }
+        return idx;
+    }
+};
