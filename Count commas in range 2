@@ -1,0 +1,13 @@
+class Solution {
+public:
+    long long countCommas(long long n) {
+        long long ans = 0;
+        long long minus = 1000;
+
+        while(minus<=n){
+            ans += n-minus+1;
+            minus *= 1000;
+        }
+        return ans;
+    }
+};
