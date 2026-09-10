@@ -1,0 +1,34 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int final_ans =0;
+    pair<int,int> sum(TreeNode* root){
+        if(root == NULL){
+            return {0,0};
+        }
+        auto left_sum = sum(root->left);
+        auto right_sum = sum(root->right);
+
+        int ans = left_sum.first+right_sum.first+root->val;
+        int count = left_sum.second+right_sum.second+1;
+
+        if(ans/count == root->val){
+            final_ans ++;
+        }
+        return {ans,count};
+    }
+    int averageOfSubtree(TreeNode* root) {
+        sum(root);
+        return final_ans;
+    }
+};
