@@ -27,4 +27,12 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Sanvi020/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Sanvi020/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
