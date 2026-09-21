@@ -11,14 +11,17 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +38,12 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanvi020/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
