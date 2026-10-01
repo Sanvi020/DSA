@@ -17,6 +17,7 @@ Collection of my DSA problems
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanvi020/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sanvi020/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -24,6 +25,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -32,6 +34,7 @@ Collection of my DSA problems
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanvi020/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sanvi020/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -91,4 +94,12 @@ Collection of my DSA problems
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanvi020/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sanvi020/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
