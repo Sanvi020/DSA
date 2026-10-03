@@ -7,6 +7,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanvi020/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -58,6 +59,7 @@ Collection of my DSA problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanvi020/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanvi020/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanvi020/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -95,6 +97,7 @@ Collection of my DSA problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanvi020/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanvi020/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanvi020/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -116,6 +119,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanvi020/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
