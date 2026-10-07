@@ -25,6 +25,7 @@ Collection of my DSA problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -35,6 +36,7 @@ Collection of my DSA problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -47,6 +49,7 @@ Collection of my DSA problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -66,6 +69,7 @@ Collection of my DSA problems
 | [0020-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanvi020/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Sanvi020/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanvi020/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -138,6 +142,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanvi020/DSA/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
