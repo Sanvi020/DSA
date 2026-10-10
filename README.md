@@ -28,6 +28,7 @@ Collection of my DSA problems
 | [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -39,6 +40,7 @@ Collection of my DSA problems
 | [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Collection of my DSA problems
 | [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
 |  |
@@ -162,4 +165,8 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanvi020/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
