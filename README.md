@@ -104,6 +104,7 @@ Collection of my DSA problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanvi020/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## DP on Trees
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Collection of my DSA problems
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sanvi020/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanvi020/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,4 +180,8 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanvi020/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
