@@ -109,6 +109,7 @@ Collection of my DSA problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanvi020/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanvi020/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -187,6 +188,7 @@ Collection of my DSA problems
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of my DSA problems
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
