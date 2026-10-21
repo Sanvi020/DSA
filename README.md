@@ -34,6 +34,7 @@ Collection of my DSA problems
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -49,6 +50,7 @@ Collection of my DSA problems
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -68,6 +70,7 @@ Collection of my DSA problems
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
@@ -152,6 +155,7 @@ Collection of my DSA problems
 | [0226-invert-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sanvi020/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -195,6 +199,7 @@ Collection of my DSA problems
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
