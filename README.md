@@ -100,6 +100,7 @@ Collection of my DSA problems
 | [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sanvi020/DSA/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Sanvi020/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanvi020/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -140,6 +141,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanvi020/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanvi020/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -203,6 +205,7 @@ Collection of my DSA problems
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanvi020/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search Tree
 |  |
@@ -221,6 +224,7 @@ Collection of my DSA problems
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -236,4 +240,12 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanvi020/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
