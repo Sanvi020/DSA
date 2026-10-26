@@ -50,6 +50,7 @@ Collection of my DSA problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sanvi020/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Sanvi020/DSA/tree/master/0419-battleships-in-a-board) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sanvi020/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sanvi020/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -128,6 +129,7 @@ Collection of my DSA problems
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0419-battleships-in-a-board](https://github.com/Sanvi020/DSA/tree/master/0419-battleships-in-a-board) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -258,5 +260,6 @@ Collection of my DSA problems
 ## Matrix
 |  |
 | ------- |
+| [0419-battleships-in-a-board](https://github.com/Sanvi020/DSA/tree/master/0419-battleships-in-a-board) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
