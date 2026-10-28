@@ -38,6 +38,7 @@ Collection of my DSA problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Sanvi020/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0965-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -58,6 +59,7 @@ Collection of my DSA problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Sanvi020/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
@@ -82,6 +84,7 @@ Collection of my DSA problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Sanvi020/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Sanvi020/DSA/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0965-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/Sanvi020/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Math
@@ -172,6 +175,7 @@ Collection of my DSA problems
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sanvi020/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Sanvi020/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Sanvi020/DSA/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Lifting
 |  |
