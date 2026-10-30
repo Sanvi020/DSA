@@ -203,6 +203,7 @@ Collection of my DSA problems
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Collection of my DSA problems
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanvi020/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -252,6 +254,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanvi020/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,4 +272,12 @@ Collection of my DSA problems
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Sanvi020/DSA/tree/master/0419-battleships-in-a-board) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
