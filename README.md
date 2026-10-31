@@ -90,6 +90,7 @@ Collection of my DSA problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanvi020/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -253,6 +254,7 @@ Collection of my DSA problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanvi020/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
@@ -280,4 +282,8 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
