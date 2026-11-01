@@ -91,6 +91,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanvi020/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanvi020/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -135,6 +136,7 @@ Collection of my DSA problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/Sanvi020/DSA/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanvi020/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanvi020/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
