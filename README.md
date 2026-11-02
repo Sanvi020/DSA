@@ -107,6 +107,7 @@ Collection of my DSA problems
 | [0032-longest-valid-parentheses](https://github.com/Sanvi020/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sanvi020/DSA/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Sanvi020/DSA/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/Sanvi020/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Sanvi020/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/0856-score-of-parentheses) |
@@ -152,6 +153,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0389-find-the-difference](https://github.com/Sanvi020/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanvi020/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -216,6 +218,7 @@ Collection of my DSA problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Sanvi020/DSA/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanvi020/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -240,6 +243,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/Sanvi020/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanvi020/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanvi020/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
