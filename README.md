@@ -267,6 +267,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanvi020/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanvi020/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
@@ -289,6 +290,7 @@ Collection of my DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sanvi020/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Sanvi020/DSA/tree/master/0148-sort-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sanvi020/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Merge Sort
