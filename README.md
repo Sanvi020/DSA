@@ -92,6 +92,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Sanvi020/DSA/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanvi020/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanvi020/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -124,6 +125,7 @@ Collection of my DSA problems
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sanvi020/DSA/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanvi020/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -308,4 +310,8 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanvi020/DSA/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sanvi020/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
