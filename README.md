@@ -139,6 +139,7 @@ Collection of my DSA problems
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sanvi020/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Sanvi020/DSA/tree/master/0162-find-peak-element) |
@@ -163,6 +164,7 @@ Collection of my DSA problems
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sanvi020/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0389-find-the-difference](https://github.com/Sanvi020/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanvi020/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
