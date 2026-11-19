@@ -155,6 +155,7 @@ Collection of my DSA problems
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sanvi020/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sanvi020/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanvi020/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanvi020/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sanvi020/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -234,6 +235,7 @@ Collection of my DSA problems
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sanvi020/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanvi020/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sanvi020/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Sanvi020/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
@@ -273,6 +275,7 @@ Collection of my DSA problems
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Sanvi020/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sanvi020/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sanvi020/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
