@@ -144,6 +144,7 @@ Collection of my DSA problems
 | [0041-first-missing-positive](https://github.com/Sanvi020/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanvi020/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanvi020/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sanvi020/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Sanvi020/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanvi020/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -252,6 +253,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanvi020/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanvi020/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sanvi020/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanvi020/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sanvi020/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
