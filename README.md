@@ -164,6 +164,7 @@ Collection of my DSA problems
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanvi020/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanvi020/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sanvi020/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## DP on Trees
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Collection of my DSA problems
 | [0200-number-of-islands](https://github.com/Sanvi020/DSA/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanvi020/DSA/tree/master/0419-battleships-in-a-board) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sanvi020/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -341,4 +343,8 @@ Collection of my DSA problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanvi020/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sanvi020/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sanvi020/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
