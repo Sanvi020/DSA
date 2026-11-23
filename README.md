@@ -95,6 +95,7 @@ Collection of my DSA problems
 | [0258-add-digits](https://github.com/Sanvi020/DSA/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanvi020/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanvi020/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/Sanvi020/DSA/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -153,6 +154,7 @@ Collection of my DSA problems
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanvi020/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0697-degree-of-an-array](https://github.com/Sanvi020/DSA/tree/master/0697-degree-of-an-array) |
 | [1254-number-of-closed-islands](https://github.com/Sanvi020/DSA/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sanvi020/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanvi020/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -342,9 +344,18 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanvi020/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sanvi020/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sanvi020/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
