@@ -124,6 +124,7 @@ Collection of my DSA problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sanvi020/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanvi020/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sanvi020/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanvi020/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
