@@ -98,6 +98,7 @@ Collection of my DSA problems
 | [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/Sanvi020/DSA/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/Sanvi020/DSA/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanvi020/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanvi020/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Sanvi020/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -131,6 +132,7 @@ Collection of my DSA problems
 | ------- |
 | [0258-add-digits](https://github.com/Sanvi020/DSA/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sanvi020/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Sanvi020/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanvi020/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
