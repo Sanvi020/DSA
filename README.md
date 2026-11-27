@@ -121,6 +121,7 @@ Collection of my DSA problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanvi020/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanvi020/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sanvi020/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Sanvi020/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanvi020/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanvi020/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sanvi020/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -348,6 +349,7 @@ Collection of my DSA problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanvi020/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Sanvi020/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sanvi020/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
 |  |
