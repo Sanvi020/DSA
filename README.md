@@ -95,6 +95,7 @@ Collection of my DSA problems
 | [0258-add-digits](https://github.com/Sanvi020/DSA/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanvi020/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanvi020/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sanvi020/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sanvi020/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sanvi020/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/Sanvi020/DSA/tree/master/2235-add-two-integers) |
@@ -250,6 +251,7 @@ Collection of my DSA problems
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sanvi020/DSA/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sanvi020/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanvi020/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
